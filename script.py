@@ -1,10 +1,9 @@
 class Script(object):
 
     START_MSG = """<b>Hy {},
-
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
-
+𝘐'𝘮 𝘢𝘯 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘧𝘪𝘭𝘵𝘦𝘳 𝘣𝘰𝘵 𝘸𝘪𝘵𝘩 𝘮𝘢𝘯𝘺 𝘤𝘢𝘱𝘢𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴!
+𝘛𝘩𝘦𝘳𝘦 𝘪𝘴 𝘯𝘰 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘢𝘭 𝘭𝘪𝘮𝘪𝘵𝘴 𝘧𝘰𝘳 𝘮𝘺 𝘧𝘪𝘭𝘵𝘦𝘳𝘪𝘯𝘨 𝘤𝘢𝘱𝘢𝘤𝘪𝘵𝘺 :)
+𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘺@Apexlegends_AG
 See <i>/help</i> for commands and more details.</b>
 """
 
@@ -52,9 +51,8 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
-
-⭕️<b>Creater :</b> @TroJanzHEX    
+    ABOUT_MSG = """⭕️<b>My Name : 𝘈𝘱𝘦𝘹-𝘍𝘪𝘭𝘵𝘦𝘳_𝘣𝘰𝘵</b>
+⭕️<b>Creater :</b> @Spoidermon7   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
