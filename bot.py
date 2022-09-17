@@ -14,9 +14,9 @@ if __name__ == "__main__" :
     )
     app = pyrogram.Client(
         "filter bot",
-        bot_token=5569567626:AAG4fEKnv998AZcoNjdt0WTAPLW56r8UdHc,
-        api_id=10651048,
-        api_hash=37775aca7d11f450ecde375baac17fe7,
+        bot_token='5569567626:AAG4fEKnv998AZcoNjdt0WTAPLW56r8UdHc',
+        api_id='10651048',
+        api_hash='37775aca7d11f450ecde375baac17fe7',
         plugins=plugins,
         workers=300
     )
